@@ -43,5 +43,5 @@ The project includes:
 
 ## Author
 
-[Your Name]
+Pooja Govinda Reddy
 Engineering Management Graduate
